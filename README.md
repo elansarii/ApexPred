@@ -1,4 +1,4 @@
-# 🏎️ RaceCraftNet
+# 🏎️ ApexPred
 > Deep Learning-based F1 Driver Performance Classification using Telemetry Data
 
 ## 📌 Project Overview
@@ -39,8 +39,8 @@ This project was built for the course **CMPE 471/CMPS 479: Deep Learning** at Qa
 ## 🛠️ Setup Instructions
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/RaceCraftNet.git
-cd RaceCraftNet
+git clone https://github.com/<your-username>/ApexPred.git
+cd ApexPred
 ````
 
 ### 2. Create a virtual environment

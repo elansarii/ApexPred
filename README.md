@@ -9,7 +9,7 @@ This project was built for the course **CMPE 471/CMPS 479: Deep Learning** at Qa
 ---
 
 ## 📂 Repository Structure
-
+```
 ├── data/                   # Raw and preprocessed telemetry data
 ├── notebooks/              # Jupyter notebooks for EDA, preprocessing, experiments
 ├── src/
@@ -23,7 +23,7 @@ This project was built for the course **CMPE 471/CMPS 479: Deep Learning** at Qa
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project overview
 
-````
+```
 
 ---
 
